@@ -1,0 +1,194 @@
+body {
+    background-color: #575b63;
+}
+.buttonContainer {
+  display: inline-block;
+  text-align: center;
+}
+.btn-group {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+  }
+
+p {
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+.food {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    width: 66%;
+    float: left;
+    padding-left: 10%;
+}
+
+.sfood {
+  text-align: left;
+  color: rgb(240, 0, 0);
+  font-size: 30px;
+  width: 66%;
+  float: left;
+  padding-left: 10%;
+}
+
+.desc {
+  text-align: left;
+  color: white;
+  font-size: 20px;
+  width: 90%;
+  float: left;
+  padding-left: 10%;
+}
+
+.price {
+  width: 13%;
+  float: right;
+  text-align: right;
+  color: white;
+  font-size: 30px;
+  padding-right: 10%;
+}
+
+.nbtopping {
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  width: 39%;
+  float: left;
+  padding-left: 10%;
+}
+
+.nbnoodle {
+  width: 39%;
+  float: right;
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  padding-right: 10%;
+}
+
+.ssfish {
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  width: 50%;
+  float: left;
+  padding-left: 10%;
+}
+
+.sssfish {
+  text-align: left;
+  color: rgb(240, 0, 0);
+  font-size: 30px;
+  width: 50%;
+  float: left;
+  padding-left: 10%;
+}
+
+.ssush {
+  width: 10%;
+  float: right;
+  text-align: right;
+  color: white;
+  font-size: 30px;
+  padding-right: 10%;
+  margin-left: 0%;
+}
+
+.ssash {
+  width: 30%;
+  float: left;
+  text-align: right;
+  color: white;
+  font-size: 30px;
+  padding-right: 10%;
+  padding-left: 40%;
+  margin-left: 0px;
+}
+
+.ssashp {
+  width: 10%;
+  float: left;
+  text-align: right;
+  color: white;
+  font-size: 30px;
+  padding-right: 10%;
+  margin-left: 0px;
+}
+
+.ssushp {
+  width: 10%;
+  float: right;
+  text-align: right;
+  color: white;
+  font-size: 30px;
+  padding-right: 10%;
+  margin-left: 0px;
+}
+
+.prepL {
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  width: 39%;
+  float: left;
+  padding-left: 10%;
+}
+
+.prepR {
+  width: 39%;
+  float: right;
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  padding-right: 10%;
+}
+
+.sPrepL {
+  text-align: left;
+  color: rgb(240, 0, 0);
+  font-size: 30px;
+  width: 39%;
+  float: left;
+  padding-left: 10%;
+}
+
+.sPrepR {
+  width: 39%;
+  float: right;
+  text-align: left;
+  color:rgb(240, 0, 0);
+  font-size: 30px;
+  padding-right: 10%;
+}
+
+
+
+
+
+
+
